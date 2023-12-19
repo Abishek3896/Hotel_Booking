@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhotel_booking=self.webpackChunkhotel_booking||[]).push([[805],{9805:function(e,t,s){s.r(t);s(2791);var i=s(184);t.default=function(){return(0,i.jsx)("h2",{children:"System is taking rest!!! Please visit sometime later."})}}}]);
+//# sourceMappingURL=805.52c36015.chunk.js.map
